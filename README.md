@@ -1,11 +1,7 @@
 Roots
 =====
 
-service scripts for managing [file tree] (https://github.com/garden/tree) forks.
-
-# Tree Services
-
-Service scripts 
+service scripts for managing [file tree] (https://github.com/garden/tree) forks. 
 
 ## Description
 
